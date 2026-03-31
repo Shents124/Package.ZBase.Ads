@@ -4,5 +4,5 @@
 3. Enter the following to install
 
 ```
-https://zitga.org/thesheep/package.zbase.ads.git?path=/Packages/ZBase.Ads
+https://github.com/Shents124/Package.ZBase.Ads?path=/Packages/ZBase.Ads
 ```
