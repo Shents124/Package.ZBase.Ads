@@ -1,0 +1,11 @@
+{
+  "name": "com.zbase.ads",
+  "displayName": "ZBase.Ads",
+  "version": "1.0.1",
+  "type": "library",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.applovin.mediation.ads": "8.6.1",
+    "com.cysharp.unitask" : "2.5.10"
+  }
+}
